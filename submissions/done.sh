@@ -3,4 +3,4 @@
 #
 #
 # 2. change the FAIL string to PASS.
-echo "FAIL"
+echo "PASS"
